@@ -31,6 +31,8 @@ It supports the following operations:
 ## Live Demo
 
 [View Calculator](https://omkarshejul.github.io/simple-calculator/)
+![Calculator Screenshot](screenshot.png)
+
 
 ## 🛠️ Technologies Used
 
