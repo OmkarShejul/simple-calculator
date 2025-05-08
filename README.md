@@ -11,6 +11,7 @@ It supports the following operations:
 ## 🧮 Features
 
 - Easy-to-use interface
+- Seprate Css and JavaScript.
 - Input validation
 - Styled with basic CSS
 - Alerts user with the calculation result
@@ -25,7 +26,7 @@ It supports the following operations:
 
 ## 📁 Files
 
-- `index.html` - Main HTML file with embedded JavaScript and CSS
+- `index.html` - Main HTML file with Seprated JavaScript and CSS
 
 ## Live Demo
 
