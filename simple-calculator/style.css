@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #f0f0f0;
+}
+
+.form {
+	border: 2px solid black;
+	width: 400px;
+	text-align: center;
+	padding: 20px;
+	background-color: lightgrey;
+	box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+	border-radius: 10px;
+}
+
+button {
+	color: black;
+	background-color: lightblue;
+}
