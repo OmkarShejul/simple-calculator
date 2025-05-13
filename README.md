@@ -10,12 +10,12 @@ It supports the following operations:
 
 ## 🧮 Features
 
-- Easy-to-use interface
+- Easy-to-use interface.
 - Seprate Css and JavaScript.
-- Input validation
-- Styled with basic CSS
-- Alerts user with the calculation result
-- Handles divide-by-zero errors
+- Input validation.
+- Styled with basic CSS.
+- Alerts user with the calculation result.
+- Handles divide-by-zero errors.
 
 ## 🚀 How to Use
 
